@@ -1,0 +1,11 @@
+{
+    "headers" : ["id" , "Name" , "Designation", "Sallary"] ,
+    "rows":[
+        [9012 , "Sanket" , " WebDev" , "70000"],
+        [9010 , "Lucifer" , " GameDev" , "40000"],
+        [9015 , "Dan" , " AndroidDev" , "70000"],
+        [9052 , "Chloe" , " ProjectManager" , "90000"],
+        [9024 , "Alla" , "ProjectAssistant" , "80000"],
+        [9032 , "Amanadeal" , "SeniorDev" , "108000"]
+    ]
+}
